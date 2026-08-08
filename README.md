@@ -6,9 +6,9 @@ Tienda online de SMK Smoke Company: catálogo, promociones, navegación por lín
 
 ## Ver el trabajo (demo en vivo)
 
-**https://smokecompany.shop**
+👉 **[Abrir smokecompany.shop](https://smokecompany.shop?utm_source=github&utm_medium=vitrina&utm_campaign=portfolio)**
 
-> El código fuente se mantiene privado. Este repositorio es la vitrina del proyecto: entra al link para ver el resultado.
+> El código fuente se mantiene privado. Esta vitrina es solo para mostrar el proyecto: entra al link y mira el resultado en vivo.
 
 ## Stack
 
